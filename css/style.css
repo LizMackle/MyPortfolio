@@ -6,7 +6,7 @@
 
 main {
     text-align: center;
-    font-family: 'Segoe UI';
+    font-family: 'tahoma';
 }
 
 nav {
@@ -55,7 +55,7 @@ main h1 {
 
 #about-me p {
     font-size: 15px;
-    line-height: 18pt;
+    line-height: 16pt;
 }
 
 #course-projects h3 {
