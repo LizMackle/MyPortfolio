@@ -19,5 +19,4 @@ The below webpage shows a range of elements used throughout to acheive this mini
 https://lizmackle.github.io/MyPortfolio/
 
 ## Mock up
-
-![Screenshot 2021-12-17 225006](https://user-images.githubusercontent.com/93589073/146562483-1f6991a0-94a4-47c0-8558-361a7f6b66b1.png)
+![Full Portfolio](https://user-images.githubusercontent.com/93589073/152676499-c8dc9512-24e4-4f6a-ba56-6aaced89dda1.png)
