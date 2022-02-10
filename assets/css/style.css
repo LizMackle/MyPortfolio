@@ -162,6 +162,7 @@ a {
 
     main h1 {
         flex-wrap: wrap;
+        font-size: 45px;
     }
  
     #about-me img{
