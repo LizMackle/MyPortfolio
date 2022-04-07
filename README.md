@@ -20,7 +20,8 @@ As a future employee, I wanted to deploy a portfolio utilising the skills learne
 ### [Deployed Link](https://lizmackle.github.io/My_Portfolio/)
 <br>
 
-![Full Portfolio](https://user-images.githubusercontent.com/93589073/152676499-c8dc9512-24e4-4f6a-ba56-6aaced89dda1.png)
+![Updated portfolio](https://user-images.githubusercontent.com/93589073/162155013-c4810e51-1370-4cc8-8593-1bdf4c3b53b4.JPG)
+
 
 ## Tests
 No tests are available for this app.
